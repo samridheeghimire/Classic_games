@@ -5,7 +5,7 @@ int checkWin();
 void system();
 char board[] = {'0','1','2','3','4','5','6','7','8','9'};
 
-void main()
+int main()
 {
     char p1[30], p2[30];
     printf("Enter first player name\n");
